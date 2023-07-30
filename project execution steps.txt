@@ -1,0 +1,6 @@
+1) download the given zip files in your system and download netbeans Java IDE.
+  (if you don't know how to download the zip files then see the screenshots given in the open me folder)
+2) setup the netbeans IDE in your PC and open the projects . Make sure that you have extracted them before any execution of projects.
+3) now execute the projects in the netbeans ide and see the output.
+4) the output videos are also shared on my linkedin account, you can see them.  (LinkedIn profile Link is 
+"https://www.linkedin.com/in/pranay-tiwaskar-294a45210")
